@@ -13,7 +13,7 @@ public class RottingOranges994 {
         System.out.println("The minimum number of minutes that must elapse until no cell has a fresh orange " +orangesRotting(grid)); // Output: 4
 
         int[][] grid1 = {
-                {2, 1, 1},
+                {2,1,1},
                 {0,1,1},
                 {1,0,1}
         };
